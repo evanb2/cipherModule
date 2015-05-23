@@ -1,0 +1,5 @@
+name = Shift Cipher
+description = Custom module which encrypts user input using a Shift Cipher
+package = Epicodus Examples
+core = 7.x
+files[] = cipher.module
